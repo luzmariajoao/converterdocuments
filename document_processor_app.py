@@ -494,3 +494,8 @@ with tab3:
        - Totais de quantidades (soma)
        - Todas as outras colunas (primeira ocorrência)
     """)
+cd document-processor
+# Substitui o arquivo
+git add document_processor_app.py
+git commit -m "Translate to English"
+git push origin main
